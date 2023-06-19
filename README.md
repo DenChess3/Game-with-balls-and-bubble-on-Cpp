@@ -1,6 +1,6 @@
 # Game-with-balls-and-bubble-on-Cpp
 
-Calls with g++ mainb.cpp function.cpp classes.cpp -lfltk
+Call with g++ mainb.cpp function.cpp classes.cpp -lfltk
 
 Write a program that simulates the movement of objects of the "soap bubble" and "
 balloon" classes over a square field of the size of 𝑁 × 𝑁 cells. In the program, these classes must be inherited
