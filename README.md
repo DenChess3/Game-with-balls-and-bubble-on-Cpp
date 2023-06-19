@@ -1,4 +1,7 @@
 # Game-with-balls-and-bubble-on-Cpp
+
+Calls with g++ mainb.cpp function.cpp classes.cpp -lfltk
+
 Write a program that simulates the movement of objects of the "soap bubble" and "
 balloon" classes over a square field of the size of 𝑁 × 𝑁 cells. In the program, these classes must be inherited
 from the common base class "round object". The "round object" class, in turn, should be inherited from the "cell contents" class. Optionally, the "empty cell" class can be inherited from
